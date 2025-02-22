@@ -1,1 +1,2 @@
-console.log("asdasd");
+import "./start/ulogger";
+import "./start/express";
